@@ -12,11 +12,15 @@ body {
 }
 .top-section{
     padding: 0 0 60px 0px;
+    background-image: url(./image/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .banner {
     display: inline-flex;
     margin: 0 auto;
     width: 100%;
+    
 }
 .banner .part-left, .about-bg .part-left {
     width: 40%;
